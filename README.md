@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Sayak!](https://portfolio-f7924.web.app/)
+### Hey 👋🏽, I'm [Sayak Das](https://portfolio-f7924.web.app/)
 
 <br/>
 
