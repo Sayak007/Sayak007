@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning Machine Learning and Data analytics
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: sayakdas1999@gmail.com
-- 📝[Resume](https://media-exp1.licdn.com/dms/document/C4D2DAQEGcAwZo8UhAA/profile-treasury-document-pdf-analyzed/0?e=1594728000&v=beta&t=doR1WOeM7N4h6ZiNv5Dy1S-qvlenGIx9yJmkTsFAJvI)
+- 📝[Resume](https://drive.google.com/drive/u/0/folders/1ScYofEjK2DgckKX4agFCfFs2Bb81DWTY)
 
 
 ![Sayak's github stats](https://github-readme-stats.vercel.app/api?username=Sayak007&show_icons=true&hide_border=true)
