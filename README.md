@@ -20,8 +20,8 @@
 - 👨🏽‍💻 I’m currently trying for freshers' job and internships.
 - 🌱 I’m currently learning Machine Learning and Data analytics
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: sayakdas1999@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1RM-TsBQQ8veKezTjRzrDYh7aSLk-ppuM/view?usp=sharing)
+- 📫 How to reach me: dsayak10@gmail.com
+- 📝[Resume](https://drive.google.com/file/d/1NdwtlFBYTZTcOjSKp-eSaV21BguslHyN/view?usp=sharing)
 
 
 ![Sayak's github stats](https://github-readme-stats.vercel.app/api?username=Sayak007&show_icons=true&hide_border=true)
