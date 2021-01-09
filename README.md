@@ -24,4 +24,4 @@
 - 📝[Resume](https://drive.google.com/file/d/1NdwtlFBYTZTcOjSKp-eSaV21BguslHyN/view?usp=sharing)
 
 
-![Sayak's github stats](https://github-readme-stats.vercel.app/api?username=Sayak007&show_icons=true&hide_border=true&theme=dark)
+![Sayak's github stats](https://github-readme-stats.vercel.app/api?username=Sayak007&show_icons=true&hide_border=true&theme=merko)
