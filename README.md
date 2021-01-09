@@ -24,6 +24,6 @@
 - 📝[Resume](https://drive.google.com/file/d/1NdwtlFBYTZTcOjSKp-eSaV21BguslHyN/view?usp=sharing)
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Sayak007&show_icons=true&hide_border=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Sayak007&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayak007&layout=compact)](https://github.com/Sayak007/github-readme-stats)
 
