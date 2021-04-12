@@ -20,7 +20,7 @@
 - 👨🏽‍💻 I’m currently trying for freshers' job and internships.
 - 🌱 I’m currently learning Machine Learning and Data analytics
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: dsayak10@gmail.com
+- 📫 How to reach me: dskssyak10@outlook.com
 - 📝[Resume](https://drive.google.com/file/d/1NdwtlFBYTZTcOjSKp-eSaV21BguslHyN/view?usp=sharing)
 
 
