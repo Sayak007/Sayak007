@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Sayak Das</h1>
-<p align="center">
+<div align="center">
   <a href="https://twitter.com/KSayak10">
     <img align="center" alt="Sayak Das | Twitter" width="30px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />
   </a>
@@ -16,10 +16,33 @@
   <a href="mailto:dsksayak10@outlook.com">
     <img align="center" width="30px" src="https://camo.githubusercontent.com/21863a9a063d33b20608be917f5601f309abec90ae5cf5dedea38bb6b55d11ab/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61696c2e737667" />
   </a>
-</p>
+</div>
 <br/>
 <p>Sayak is currently a final year student of B.Tech in Computer Science and Engineering. He has strong analytical programming knowledge and knows to work in a team. He also has industry experiences on Software Development, Full stack web development and also has hands on data analytics experience. He loves to dig into data and make a statistical inference out of it. Last but not the least he is a fast learner and adaptable to changes. Currently he is open to work in an organization in any challenging role.</p>
 <br>
+<h1 align="center">Programming Languages</h1>
+<div>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"/>
+  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"/>
+</div>
+<br/>
+<br/>
 
 **Talking about Personal Stuffs:**
 
