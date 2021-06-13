@@ -23,24 +23,24 @@
 
 ## Tech Stack
 <div>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"/>
-  <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"/>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"/></a>
+  <a href="#"><img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"/></a>
 </div>
 <br/>
 <br/>
