@@ -20,7 +20,8 @@
 <br/>
 <p>Sayak is currently a final year student of B.Tech in Computer Science and Engineering. He has strong analytical programming knowledge and knows to work in a team. He also has industry experiences on Software Development, Full stack web development and also has hands on data analytics experience. He loves to dig into data and make a statistical inference out of it. Last but not the least he is a fast learner and adaptable to changes. Currently he is open to work in an organization in any challenging role.</p>
 <br>
-<h1 align="center">Programming Languages</h1>
+
+## Tech Stack
 <div>
   <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"/>
   <img align="left" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"/>
@@ -46,7 +47,7 @@
 <br/>
 <br/>
 
-**Talking about Personal Stuffs:**
+## Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently trying for freshers' job and internships.
 - 🌱 I’m currently learning MERN stack,Machine Learning and Data analytics.
