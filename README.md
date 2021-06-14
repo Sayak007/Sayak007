@@ -20,6 +20,9 @@
 <br/>
 <p>Sayak is currently a final year student of B.Tech in Computer Science and Engineering. He has strong analytical programming knowledge and knows to work in a team. He also has industry experiences on Software Development, Full stack web development and also has hands on data analytics experience. He loves to dig into data and make a statistical inference out of it. Last but not the least he is a fast learner and adaptable to changes. Currently he is open to work in an organization in any challenging role.</p>
 <br>
+<a align="center" href="#">
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=Sayak007&show_icons=true&count_private=true&include_all_commits=true" />
+</a>
 
 ## Tech Stack
 <div>
@@ -46,6 +49,9 @@
 <br/>
 <br/>
 <br/>
+<a align="center" href="#">
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayak007&&langs_count=10&layout=compact" />
+</a>
 
 ## Talking about Personal Stuffs:
 
@@ -54,8 +60,3 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: dsksayak10@outlook.com
 - 📝[Resume](https://drive.google.com/file/d/1NdwtlFBYTZTcOjSKp-eSaV21BguslHyN/view?usp=sharing)
-
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=Sayak007&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayak007&layout=compact)](https://github.com/Sayak007/github-readme-stats)
-
