@@ -55,8 +55,7 @@
 
 ## Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently trying for freshers' job and internships.
 - 🌱 I’m currently learning MERN stack,Machine Learning and Data analytics.
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: dsksayak10@outlook.com
-- 📝[Resume](https://drive.google.com/file/d/1NdwtlFBYTZTcOjSKp-eSaV21BguslHyN/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1OtYuyB7VMe5TPwCSjIbsOQ2_CtVjLEGX/view?usp=sharing)
