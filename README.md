@@ -18,7 +18,7 @@
   </a>
 </div>
 <br/>
-<p>Sayak is currently a final year student of B.Tech in Computer Science and Engineering. He has strong analytical programming knowledge and knows to work in a team. He also has industry experiences on Software Development, Full stack web development and also has hands on data analytics experience. He loves to dig into data and make a statistical inference out of it. Last but not the least he is a fast learner and adaptable to changes. Currently he is open to work in an organization in any challenging role.</p>
+<p>Experienced in Software Development, Full Stack Web Development , ETL designing, Data Pipelines,Data Analytics, Project Management and Deploying to Cloud. Also proficient in version controlling all the knowledge as well as projects following Agile Methodology. Looking to learn and grow and use my knowledge for the betterment in anyway possible.</p>
 <br>
 <a align="center" href="#">
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=Sayak007&show_icons=true&count_private=true&include_all_commits=true" />
