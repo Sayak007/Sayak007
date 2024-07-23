@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Sayak Das</h1>
-<div align="center">
+<!--<div align="center">
   <a href="https://twitter.com/KSayak10">
     <img align="center" alt="Sayak Das | Twitter" width="30px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />
   </a>
@@ -16,7 +16,7 @@
   <a href="mailto:dsksayak10@outlook.com">
     <img align="center" width="30px" src="https://camo.githubusercontent.com/21863a9a063d33b20608be917f5601f309abec90ae5cf5dedea38bb6b55d11ab/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61696c2e737667" />
   </a>
-</div>
+</div>-->
 <br/>
 <p>Experienced in Software Development, Full Stack Web Development , ETL designing, Data Pipelines,Data Analytics, Project Management and Deploying to Cloud. Also proficient in version controlling all the knowledge as well as projects following Agile Methodology. Looking to learn and grow and use my knowledge for the betterment in anyway possible.</p>
 <br>
